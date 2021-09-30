@@ -11,7 +11,7 @@ function App() {
        
       </header></div>
       <Dictionary/> 
-      <footer>Coded by Daria Lee </footer>
+      <footer>Coded by <a href="https://github.com/Daria888-hub/myfirstreact"> Daria Lee</a> hosted on <a href="https://laughing-leakey-e36757.netlify.app/">netlify</a> </footer>
     
     </div>
   );
