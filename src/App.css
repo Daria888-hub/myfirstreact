@@ -1,8 +1,29 @@
 .App{
-  background-color: rgb(228, 222, 222);
-margin: 150px;
+
+margin: 20px;
+
  
+}
+
+.App-header {
+  text-align: center;
+  margin: 30px 0;
+  padding: 50px;
+  font-family:  cursive;
+
+
 }
 footer{
   text-align: center;
 }
+body {
+  background: #d3eee1;
+max-width: 960px;
+margin: 0 auto;}
+  a{
+    text-decoration: none;
+    color: rgb(113, 119, 175);
+  }
+  a:hover{
+    color:violet;
+  }
